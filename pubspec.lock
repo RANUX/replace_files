@@ -22,15 +22,8 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.16.0"
-  lints:
-    dependency: "direct dev"
-    description:
-      name: lints
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.1"
   path:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: path
       url: "https://pub.dartlang.org"
